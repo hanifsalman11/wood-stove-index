@@ -28,5 +28,35 @@
     "max_sqft": 1200,
     "flue_in": 6,
     "date": "2026-10-26"
+  },
+  {
+    "stove_name": "Drolet Deco Nano & Deco II Modern Wood Stove",
+    "slug": "drolet-deco-nano-deco-ii-modern-wood-stove-btu-chimney-calculator",
+    "title": "Drolet Deco Nano & Deco II Modern Wood Stove BTU Sizing, Chimney 3-2-10 Rule & Fuel Calculator (2026)",
+    "description": "Calculate exact heating coverage (1,800 sq ft / 65,000 BTU), NFPA 211 3-2-10 chimney height (7.0' above 6/12 roof), and winter fuel usage (2.8 Full Cords of Seasoned Hardwood (<20% Moisture Content)) for Drolet Deco Nano & Deco II Modern Wood Stove.",
+    "peak_btu": 65000,
+    "max_sqft": 1800,
+    "flue_in": 6,
+    "date": "2026-10-26"
+  },
+  {
+    "stove_name": "ComfortBilt HP22 Automatic Pellet Stove",
+    "slug": "comfortbilt-hp22-automatic-pellet-stove-btu-chimney-calculator",
+    "title": "ComfortBilt HP22 Automatic Pellet Stove BTU Sizing, Chimney 3-2-10 Rule & Fuel Calculator (2026)",
+    "description": "Calculate exact heating coverage (2,800 sq ft / 50,000 BTU), NFPA 211 3-2-10 chimney height (7.0' above 6/12 roof), and winter fuel usage (5.6 Tons (280 × 40-lb bags) of Premium Hardwood Pellets) for ComfortBilt HP22 Automatic Pellet Stove.",
+    "peak_btu": 50000,
+    "max_sqft": 2800,
+    "flue_in": 3,
+    "date": "2026-10-26"
+  },
+  {
+    "stove_name": "ComfortBilt HP50S 47,000 BTU Pellet Stove",
+    "slug": "comfortbilt-hp50s-47000-btu-pellet-stove-btu-chimney-calculator",
+    "title": "ComfortBilt HP50S 47,000 BTU Pellet Stove BTU Sizing, Chimney 3-2-10 Rule & Fuel Calculator (2026)",
+    "description": "Calculate exact heating coverage (2,200 sq ft / 47,000 BTU), NFPA 211 3-2-10 chimney height (7.0' above 6/12 roof), and winter fuel usage (4.5 Tons (225 × 40-lb bags) of Premium Hardwood Pellets) for ComfortBilt HP50S 47,000 BTU Pellet Stove.",
+    "peak_btu": 47000,
+    "max_sqft": 2200,
+    "flue_in": 3,
+    "date": "2026-10-26"
   }
 ]
