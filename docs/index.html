@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>HearthStoveIndex — Wood & Pellet Stove BTU, Chimney 3-2-10 Rule & Fuel Calculator (2026)</title>
+  <meta name="description" content="Calculate exact wood and pellet stove BTU heating capacity, NFPA 211 (3-2-10 rule) Class-A chimney pipe height, and winter firewood cords or pellet bags for Drolet, ComfortBilt, PelPro, Pleasant Hearth, and US Stove models.">
+  <link rel="canonical" href="https://hanifsalman11.github.io/wood-stove-index/">
+  <link rel="alternate" type="application/rss+xml" title="HearthStoveIndex RSS Feed" href="https://hanifsalman11.github.io/wood-stove-index/rss.xml">
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-stone-950 text-stone-100 min-h-screen flex flex-col">
+  <header class="border-b border-stone-800 bg-stone-900/80 sticky top-0 z-30 backdrop-blur">
+    <div class="max-w-5xl mx-auto px-4 py-3.5 flex items-center justify-between">
+      <div class="text-lg font-black text-white flex items-center gap-2">
+        <span class="bg-orange-500 text-stone-950 px-2 py-0.5 rounded font-black">HEARTH</span>StoveIndex
+      </div>
+      <a href="https://www.amazon.com/s?k=EPA%2BWood%2BStove%2BPellet%2BStove%2B6%2BInch%2BClass%2BA%2BChimney%2BPipe%2BKit&tag=salmanrevie04-20" target="_blank" rel="nofollow sponsored" class="text-xs sm:text-sm bg-orange-500 hover:bg-orange-400 text-stone-950 font-extrabold px-3.5 py-2 rounded-lg transition">
+        Shop Wood/Pellet Stoves & Chimney Kits on Amazon →
+      </a>
+    </div>
+  </header>
+
+  <main class="max-w-5xl mx-auto px-4 py-12 flex-1 w-full">
+    <div class="text-center max-w-2xl mx-auto mb-10">
+      <h1 class="text-3xl sm:text-5xl font-black text-white tracking-tight">Wood & Pellet Stove BTU, Chimney Pipe & Fuel Database</h1>
+      <p class="text-stone-400 mt-3 text-base sm:text-lg">Select your wood or pellet stove model below to calculate room BTU requirements, NFPA 211 (3-2-10 rule) roof chimney pipe height, and seasonal firewood cords or pellet tons.</p>
+      <div class="mt-6">
+        <input id="filterInput" type="text" placeholder="Search stove model or home size (e.g. Drolet Escape 1800, ComfortBilt HP22, PelPro, 2000 Sq Ft, Chimney Pipe...)" class="w-full bg-stone-900 border border-stone-700 rounded-xl px-4 py-3.5 text-sm text-white focus:outline-none focus:border-orange-500">
+      </div>
+    </div>
+
+    <div id="stoveGrid" class="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
+        <a href="drolet-spark-ii-compact-cabin-wood-stove-btu-chimney-calculator.html" class="block bg-stone-900 border border-stone-800 hover:border-orange-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-orange-500 text-stone-950 px-2.5 py-0.5 rounded">55,000 BTU</span>
+            <span class="text-xs text-stone-400">Up to 1,200 Sq Ft | 6" Flue</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-orange-400 transition">Drolet Spark II Compact Cabin Wood Stove</h2>
+          <p class="text-xs text-stone-400 mt-2 line-clamp-2">Calculate exact heating coverage (1,200 sq ft / 55,000 BTU), NFPA 211 3-2-10 chimney height (7.0' above 6/12 roof), and winter fuel usage (1.9 Full Cords of Seasoned Hardwood (<20% Moisture Content)) for Drolet Spark II Compact Cabin Wood Stove.</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-orange-400">Calculate BTU, 3-2-10 Chimney & Fuel →</span>
+        </a>
+        <a href="drolet-ht-3000-extra-large-epa-wood-stove-btu-chimney-calculator.html" class="block bg-stone-900 border border-stone-800 hover:border-orange-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-orange-500 text-stone-950 px-2.5 py-0.5 rounded">110,000 BTU</span>
+            <span class="text-xs text-stone-400">Up to 2,700 Sq Ft | 6" Flue</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-orange-400 transition">Drolet HT-3000 Extra-Large EPA Wood Stove</h2>
+          <p class="text-xs text-stone-400 mt-2 line-clamp-2">Calculate exact heating coverage (2,700 sq ft / 110,000 BTU), NFPA 211 3-2-10 chimney height (7.0' above 6/12 roof), and winter fuel usage (4.1 Full Cords of Seasoned Hardwood (<20% Moisture Content)) for Drolet HT-3000 Extra-Large EPA Wood Stove.</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-orange-400">Calculate BTU, 3-2-10 Chimney & Fuel →</span>
+        </a>
+        <a href="drolet-escape-1800-epa-wood-stove-btu-chimney-calculator.html" class="block bg-stone-900 border border-stone-800 hover:border-orange-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-orange-500 text-stone-950 px-2.5 py-0.5 rounded">75,000 BTU</span>
+            <span class="text-xs text-stone-400">Up to 2,100 Sq Ft | 6" Flue</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-orange-400 transition">Drolet Escape 1800 EPA Wood Stove</h2>
+          <p class="text-xs text-stone-400 mt-2 line-clamp-2">Calculate exact heating coverage (2,100 sq ft / 75,000 BTU), NFPA 211 3-2-10 chimney height (7.0' above 6/12 roof), and winter fuel usage (3.2 Full Cords of Seasoned Hardwood (<20% Moisture Content)) for Drolet Escape 1800 EPA Wood Stove.</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-orange-400">Calculate BTU, 3-2-10 Chimney & Fuel →</span>
+        </a></div>
+  </main>
+
+  <footer class="border-t border-stone-800 py-8 text-center text-xs text-stone-500">
+    <p>© 2026 HearthStoveIndex. As an Amazon Associate, we earn from qualifying purchases.</p>
+  </footer>
+
+  <script>
+    const filterInput = document.getElementById('filterInput');
+    const cards = Array.from(document.getElementById('stoveGrid').children);
+    filterInput.addEventListener('input', (e) => {
+      const q = e.target.value.toLowerCase();
+      cards.forEach(c => {
+        c.style.display = c.textContent.toLowerCase().includes(q) ? 'block' : 'none';
+      });
+    });
+  </script>
+</body>
+</html>

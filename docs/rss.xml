@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HearthStoveIndex Wood & Pellet Stove Sizing Database</title>
+    <link>https://hanifsalman11.github.io/wood-stove-index/</link>
+    <description>Interactive Wood & Pellet Stove BTU, NFPA 211 Chimney Height & Fuel Calculators</description>
+    <atom:link href="https://hanifsalman11.github.io/wood-stove-index/rss.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
+    <item>
+      <title>Drolet Spark II Compact Cabin Wood Stove BTU Sizing, Chimney 3-2-10 Rule & Fuel Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/wood-stove-index/drolet-spark-ii-compact-cabin-wood-stove-btu-chimney-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/wood-stove-index/drolet-spark-ii-compact-cabin-wood-stove-btu-chimney-calculator.html</guid>
+      <description>Calculate exact heating coverage (1,200 sq ft / 55,000 BTU), NFPA 211 3-2-10 chimney height (7.0' above 6/12 roof), and winter fuel usage (1.9 Full Cords of Seasoned Hardwood (<20% Moisture Content)) for Drolet Spark II Compact Cabin Wood Stove.</description>
+    </item>
+    <item>
+      <title>Drolet HT-3000 Extra-Large EPA Wood Stove BTU Sizing, Chimney 3-2-10 Rule & Fuel Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/wood-stove-index/drolet-ht-3000-extra-large-epa-wood-stove-btu-chimney-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/wood-stove-index/drolet-ht-3000-extra-large-epa-wood-stove-btu-chimney-calculator.html</guid>
+      <description>Calculate exact heating coverage (2,700 sq ft / 110,000 BTU), NFPA 211 3-2-10 chimney height (7.0' above 6/12 roof), and winter fuel usage (4.1 Full Cords of Seasoned Hardwood (<20% Moisture Content)) for Drolet HT-3000 Extra-Large EPA Wood Stove.</description>
+    </item>
+    <item>
+      <title>Drolet Escape 1800 EPA Wood Stove BTU Sizing, Chimney 3-2-10 Rule & Fuel Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/wood-stove-index/drolet-escape-1800-epa-wood-stove-btu-chimney-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/wood-stove-index/drolet-escape-1800-epa-wood-stove-btu-chimney-calculator.html</guid>
+      <description>Calculate exact heating coverage (2,100 sq ft / 75,000 BTU), NFPA 211 3-2-10 chimney height (7.0' above 6/12 roof), and winter fuel usage (3.2 Full Cords of Seasoned Hardwood (<20% Moisture Content)) for Drolet Escape 1800 EPA Wood Stove.</description>
+    </item>
+  </channel>
+</rss>

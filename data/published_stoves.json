@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "stove_name": "Drolet Escape 1800 EPA Wood Stove",
+    "slug": "drolet-escape-1800-epa-wood-stove-btu-chimney-calculator",
+    "title": "Drolet Escape 1800 EPA Wood Stove BTU Sizing, Chimney 3-2-10 Rule & Fuel Calculator (2026)",
+    "description": "Calculate exact heating coverage (2,100 sq ft / 75,000 BTU), NFPA 211 3-2-10 chimney height (7.0' above 6/12 roof), and winter fuel usage (3.2 Full Cords of Seasoned Hardwood (<20% Moisture Content)) for Drolet Escape 1800 EPA Wood Stove.",
+    "peak_btu": 75000,
+    "max_sqft": 2100,
+    "flue_in": 6,
+    "date": "2026-10-26"
+  },
+  {
+    "stove_name": "Drolet HT-3000 Extra-Large EPA Wood Stove",
+    "slug": "drolet-ht-3000-extra-large-epa-wood-stove-btu-chimney-calculator",
+    "title": "Drolet HT-3000 Extra-Large EPA Wood Stove BTU Sizing, Chimney 3-2-10 Rule & Fuel Calculator (2026)",
+    "description": "Calculate exact heating coverage (2,700 sq ft / 110,000 BTU), NFPA 211 3-2-10 chimney height (7.0' above 6/12 roof), and winter fuel usage (4.1 Full Cords of Seasoned Hardwood (<20% Moisture Content)) for Drolet HT-3000 Extra-Large EPA Wood Stove.",
+    "peak_btu": 110000,
+    "max_sqft": 2700,
+    "flue_in": 6,
+    "date": "2026-10-26"
+  },
+  {
+    "stove_name": "Drolet Spark II Compact Cabin Wood Stove",
+    "slug": "drolet-spark-ii-compact-cabin-wood-stove-btu-chimney-calculator",
+    "title": "Drolet Spark II Compact Cabin Wood Stove BTU Sizing, Chimney 3-2-10 Rule & Fuel Calculator (2026)",
+    "description": "Calculate exact heating coverage (1,200 sq ft / 55,000 BTU), NFPA 211 3-2-10 chimney height (7.0' above 6/12 roof), and winter fuel usage (1.9 Full Cords of Seasoned Hardwood (<20% Moisture Content)) for Drolet Spark II Compact Cabin Wood Stove.",
+    "peak_btu": 55000,
+    "max_sqft": 1200,
+    "flue_in": 6,
+    "date": "2026-10-26"
+  }
+]
