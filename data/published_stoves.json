@@ -148,5 +148,35 @@
     "max_sqft": 2500,
     "flue_in": 3,
     "date": "2026-10-27"
+  },
+  {
+    "stove_name": "PelPro PP60-B 1,500 Sq Ft Compact Pellet Stove",
+    "slug": "pelpro-pp60-b-1500-sq-ft-compact-pellet-stove-btu-chimney-calculator",
+    "title": "PelPro PP60-B 1,500 Sq Ft Compact Pellet Stove BTU Sizing, Chimney 3-2-10 Rule & Fuel Calculator (2026)",
+    "description": "Calculate exact heating coverage (1,500 sq ft / 35,000 BTU), NFPA 211 3-2-10 chimney height (7.0' above 6/12 roof), and winter fuel usage (3.0 Tons (150 × 40-lb bags) of Premium Hardwood Pellets) for PelPro PP60-B 1,500 Sq Ft Compact Pellet Stove.",
+    "peak_btu": 35000,
+    "max_sqft": 1500,
+    "flue_in": 3,
+    "date": "2026-10-27"
+  },
+  {
+    "stove_name": "Century Heating FW3500 Extra-Large Wood Stove",
+    "slug": "century-heating-fw3500-extra-large-wood-stove-btu-chimney-calculator",
+    "title": "Century Heating FW3500 Extra-Large Wood Stove BTU Sizing, Chimney 3-2-10 Rule & Fuel Calculator (2026)",
+    "description": "Calculate exact heating coverage (2,500 sq ft / 90,000 BTU), NFPA 211 3-2-10 chimney height (7.0' above 6/12 roof), and winter fuel usage (3.8 Full Cords of Seasoned Hardwood (<20% Moisture Content)) for Century Heating FW3500 Extra-Large Wood Stove.",
+    "peak_btu": 90000,
+    "max_sqft": 2500,
+    "flue_in": 6,
+    "date": "2026-10-27"
+  },
+  {
+    "stove_name": "Century Heating FW2800 Medium EPA Wood Stove",
+    "slug": "century-heating-fw2800-medium-epa-wood-stove-btu-chimney-calculator",
+    "title": "Century Heating FW2800 Medium EPA Wood Stove BTU Sizing, Chimney 3-2-10 Rule & Fuel Calculator (2026)",
+    "description": "Calculate exact heating coverage (1,800 sq ft / 65,000 BTU), NFPA 211 3-2-10 chimney height (7.0' above 6/12 roof), and winter fuel usage (2.8 Full Cords of Seasoned Hardwood (<20% Moisture Content)) for Century Heating FW2800 Medium EPA Wood Stove.",
+    "peak_btu": 65000,
+    "max_sqft": 1800,
+    "flue_in": 6,
+    "date": "2026-10-27"
   }
 ]
