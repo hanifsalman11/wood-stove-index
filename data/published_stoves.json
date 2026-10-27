@@ -88,5 +88,35 @@
     "max_sqft": 1800,
     "flue_in": 6,
     "date": "2026-10-27"
+  },
+  {
+    "stove_name": "Ashley Hearth AW2520E-P 2,500 Sq Ft Wood Stove",
+    "slug": "ashley-hearth-aw2520e-p-2500-sq-ft-wood-stove-btu-chimney-calculator",
+    "title": "Ashley Hearth AW2520E-P 2,500 Sq Ft Wood Stove BTU Sizing, Chimney 3-2-10 Rule & Fuel Calculator (2026)",
+    "description": "Calculate exact heating coverage (2,500 sq ft / 88,000 BTU), NFPA 211 3-2-10 chimney height (7.0' above 6/12 roof), and winter fuel usage (3.9 Full Cords of Seasoned Hardwood (<20% Moisture Content)) for Ashley Hearth AW2520E-P 2,500 Sq Ft Wood Stove.",
+    "peak_btu": 88000,
+    "max_sqft": 2500,
+    "flue_in": 6,
+    "date": "2026-10-27"
+  },
+  {
+    "stove_name": "Ashley Hearth AP5660L 2,200 Sq Ft Pellet Stove",
+    "slug": "ashley-hearth-ap5660l-2200-sq-ft-pellet-stove-btu-chimney-calculator",
+    "title": "Ashley Hearth AP5660L 2,200 Sq Ft Pellet Stove BTU Sizing, Chimney 3-2-10 Rule & Fuel Calculator (2026)",
+    "description": "Calculate exact heating coverage (2,200 sq ft / 48,000 BTU), NFPA 211 3-2-10 chimney height (7.0' above 6/12 roof), and winter fuel usage (4.7 Tons (235 × 40-lb bags) of Premium Hardwood Pellets) for Ashley Hearth AP5660L 2,200 Sq Ft Pellet Stove.",
+    "peak_btu": 48000,
+    "max_sqft": 2200,
+    "flue_in": 3,
+    "date": "2026-10-27"
+  },
+  {
+    "stove_name": "Pleasant Hearth 2,200 Sq Ft Large EPA Wood Stove",
+    "slug": "pleasant-hearth-2200-sq-ft-large-epa-wood-stove-btu-chimney-calculator",
+    "title": "Pleasant Hearth 2,200 Sq Ft Large EPA Wood Stove BTU Sizing, Chimney 3-2-10 Rule & Fuel Calculator (2026)",
+    "description": "Calculate exact heating coverage (2,200 sq ft / 75,000 BTU), NFPA 211 3-2-10 chimney height (7.0' above 6/12 roof), and winter fuel usage (3.2 Full Cords of Seasoned Hardwood (<20% Moisture Content)) for Pleasant Hearth 2,200 Sq Ft Large EPA Wood Stove.",
+    "peak_btu": 75000,
+    "max_sqft": 2200,
+    "flue_in": 6,
+    "date": "2026-10-27"
   }
 ]
