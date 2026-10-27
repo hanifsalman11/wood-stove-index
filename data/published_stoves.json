@@ -118,5 +118,35 @@
     "max_sqft": 2200,
     "flue_in": 6,
     "date": "2026-10-27"
+  },
+  {
+    "stove_name": "Pleasant Hearth 1,800 Sq Ft Medium EPA Wood Stove",
+    "slug": "pleasant-hearth-1800-sq-ft-medium-epa-wood-stove-btu-chimney-calculator",
+    "title": "Pleasant Hearth 1,800 Sq Ft Medium EPA Wood Stove BTU Sizing, Chimney 3-2-10 Rule & Fuel Calculator (2026)",
+    "description": "Calculate exact heating coverage (1,800 sq ft / 65,000 BTU), NFPA 211 3-2-10 chimney height (7.0' above 6/12 roof), and winter fuel usage (2.7 Full Cords of Seasoned Hardwood (<20% Moisture Content)) for Pleasant Hearth 1,800 Sq Ft Medium EPA Wood Stove.",
+    "peak_btu": 65000,
+    "max_sqft": 1800,
+    "flue_in": 6,
+    "date": "2026-10-27"
+  },
+  {
+    "stove_name": "Castle Serenity 12327 PelPro Pellet Stove",
+    "slug": "castle-serenity-12327-pelpro-pellet-stove-btu-chimney-calculator",
+    "title": "Castle Serenity 12327 PelPro Pellet Stove BTU Sizing, Chimney 3-2-10 Rule & Fuel Calculator (2026)",
+    "description": "Calculate exact heating coverage (1,500 sq ft / 40,000 BTU), NFPA 211 3-2-10 chimney height (7.0' above 6/12 roof), and winter fuel usage (3.1 Tons (155 × 40-lb bags) of Premium Hardwood Pellets) for Castle Serenity 12327 PelPro Pellet Stove.",
+    "peak_btu": 40000,
+    "max_sqft": 1500,
+    "flue_in": 3,
+    "date": "2026-10-27"
+  },
+  {
+    "stove_name": "PelPro PP130 130-Lb Hopper 2,500 Sq Ft Pellet Stove",
+    "slug": "pelpro-pp130-130-lb-hopper-2500-sq-ft-pellet-stove-btu-chimney-calculator",
+    "title": "PelPro PP130 130-Lb Hopper 2,500 Sq Ft Pellet Stove BTU Sizing, Chimney 3-2-10 Rule & Fuel Calculator (2026)",
+    "description": "Calculate exact heating coverage (2,500 sq ft / 50,000 BTU), NFPA 211 3-2-10 chimney height (7.0' above 6/12 roof), and winter fuel usage (4.9 Tons (245 × 40-lb bags) of Premium Hardwood Pellets) for PelPro PP130 130-Lb Hopper 2,500 Sq Ft Pellet Stove.",
+    "peak_btu": 50000,
+    "max_sqft": 2500,
+    "flue_in": 3,
+    "date": "2026-10-27"
   }
 ]
