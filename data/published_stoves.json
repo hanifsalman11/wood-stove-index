@@ -238,5 +238,35 @@
     "max_sqft": 1500,
     "flue_in": 6,
     "date": "2026-10-28"
+  },
+  {
+    "stove_name": "2,000 Sq Ft Family Home Wood Stove & Chimney Sizing",
+    "slug": "2000-sq-ft-family-home-wood-stove-chimney-sizing-btu-chimney-calculator",
+    "title": "2,000 Sq Ft Family Home Wood Stove & Chimney Sizing BTU Sizing, Chimney 3-2-10 Rule & Fuel Calculator (2026)",
+    "description": "Calculate exact heating coverage (2,000 sq ft / 75,000 BTU), NFPA 211 3-2-10 chimney height (7.0' above 6/12 roof), and winter fuel usage (3.0 Full Cords of Seasoned Hardwood (<20% Moisture Content)) for 2,000 Sq Ft Family Home Wood Stove & Chimney Sizing.",
+    "peak_btu": 75000,
+    "max_sqft": 2000,
+    "flue_in": 6,
+    "date": "2026-10-28"
+  },
+  {
+    "stove_name": "2,500 Sq Ft Cold-Climate Home Wood Stove Sizing",
+    "slug": "2500-sq-ft-cold-climate-home-wood-stove-sizing-btu-chimney-calculator",
+    "title": "2,500 Sq Ft Cold-Climate Home Wood Stove Sizing BTU Sizing, Chimney 3-2-10 Rule & Fuel Calculator (2026)",
+    "description": "Calculate exact heating coverage (2,500 sq ft / 95,000 BTU), NFPA 211 3-2-10 chimney height (7.0' above 6/12 roof), and winter fuel usage (3.7 Full Cords of Seasoned Hardwood (<20% Moisture Content)) for 2,500 Sq Ft Cold-Climate Home Wood Stove Sizing.",
+    "peak_btu": 95000,
+    "max_sqft": 2500,
+    "flue_in": 6,
+    "date": "2026-10-28"
+  },
+  {
+    "stove_name": "1,000 Sq Ft A-Frame Off-Grid Cabin Wood Stove",
+    "slug": "1000-sq-ft-a-frame-off-grid-cabin-wood-stove-btu-chimney-calculator",
+    "title": "1,000 Sq Ft A-Frame Off-Grid Cabin Wood Stove BTU Sizing, Chimney 3-2-10 Rule & Fuel Calculator (2026)",
+    "description": "Calculate exact heating coverage (1,000 sq ft / 45,000 BTU), NFPA 211 3-2-10 chimney height (7.0' above 6/12 roof), and winter fuel usage (1.6 Full Cords of Seasoned Hardwood (<20% Moisture Content)) for 1,000 Sq Ft A-Frame Off-Grid Cabin Wood Stove.",
+    "peak_btu": 45000,
+    "max_sqft": 1000,
+    "flue_in": 6,
+    "date": "2026-10-28"
   }
 ]
