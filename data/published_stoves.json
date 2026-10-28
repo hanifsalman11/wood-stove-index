@@ -178,5 +178,35 @@
     "max_sqft": 1800,
     "flue_in": 6,
     "date": "2026-10-27"
+  },
+  {
+    "stove_name": "Englander 30-NC / 32-NC 2,200 Sq Ft Wood Stove",
+    "slug": "englander-30-nc-32-nc-2200-sq-ft-wood-stove-btu-chimney-calculator",
+    "title": "Englander 30-NC / 32-NC 2,200 Sq Ft Wood Stove BTU Sizing, Chimney 3-2-10 Rule & Fuel Calculator (2026)",
+    "description": "Calculate exact heating coverage (2,200 sq ft / 75,000 BTU), NFPA 211 3-2-10 chimney height (7.0' above 6/12 roof), and winter fuel usage (3.4 Full Cords of Seasoned Hardwood (<20% Moisture Content)) for Englander 30-NC / 32-NC 2,200 Sq Ft Wood Stove.",
+    "peak_btu": 75000,
+    "max_sqft": 2200,
+    "flue_in": 6,
+    "date": "2026-10-28"
+  },
+  {
+    "stove_name": "Vogelzang DefenderTR001 EPA Wood Burning Stove",
+    "slug": "vogelzang-defendertr001-epa-wood-burning-stove-btu-chimney-calculator",
+    "title": "Vogelzang DefenderTR001 EPA Wood Burning Stove BTU Sizing, Chimney 3-2-10 Rule & Fuel Calculator (2026)",
+    "description": "Calculate exact heating coverage (1,500 sq ft / 62,000 BTU), NFPA 211 3-2-10 chimney height (7.0' above 6/12 roof), and winter fuel usage (2.4 Full Cords of Seasoned Hardwood (<20% Moisture Content)) for Vogelzang DefenderTR001 EPA Wood Burning Stove.",
+    "peak_btu": 62000,
+    "max_sqft": 1500,
+    "flue_in": 6,
+    "date": "2026-10-28"
+  },
+  {
+    "stove_name": "Blaze King King 40 & Princess Catalytic Wood Stove",
+    "slug": "blaze-king-king-40-princess-catalytic-wood-stove-btu-chimney-calculator",
+    "title": "Blaze King King 40 & Princess Catalytic Wood Stove BTU Sizing, Chimney 3-2-10 Rule & Fuel Calculator (2026)",
+    "description": "Calculate exact heating coverage (2,600 sq ft / 85,000 BTU), NFPA 211 3-2-10 chimney height (7.0' above 6/12 roof), and winter fuel usage (3.7 Full Cords of Seasoned Hardwood (<20% Moisture Content)) for Blaze King King 40 & Princess Catalytic Wood Stove.",
+    "peak_btu": 85000,
+    "max_sqft": 2600,
+    "flue_in": 8,
+    "date": "2026-10-28"
   }
 ]
