@@ -208,5 +208,35 @@
     "max_sqft": 2600,
     "flue_in": 8,
     "date": "2026-10-28"
+  },
+  {
+    "stove_name": "Jotul F 500 V3 Oslo Cast Iron Catalytic Wood Stove",
+    "slug": "jotul-f-500-v3-oslo-cast-iron-catalytic-wood-stove-btu-chimney-calculator",
+    "title": "Jotul F 500 V3 Oslo Cast Iron Catalytic Wood Stove BTU Sizing, Chimney 3-2-10 Rule & Fuel Calculator (2026)",
+    "description": "Calculate exact heating coverage (2,000 sq ft / 70,000 BTU), NFPA 211 3-2-10 chimney height (7.0' above 6/12 roof), and winter fuel usage (3.0 Full Cords of Seasoned Hardwood (<20% Moisture Content)) for Jotul F 500 V3 Oslo Cast Iron Catalytic Wood Stove.",
+    "peak_btu": 70000,
+    "max_sqft": 2000,
+    "flue_in": 6,
+    "date": "2026-10-28"
+  },
+  {
+    "stove_name": "HearthStone Heritage Soapstone Hybrid Wood Stove",
+    "slug": "hearthstone-heritage-soapstone-hybrid-wood-stove-btu-chimney-calculator",
+    "title": "HearthStone Heritage Soapstone Hybrid Wood Stove BTU Sizing, Chimney 3-2-10 Rule & Fuel Calculator (2026)",
+    "description": "Calculate exact heating coverage (2,000 sq ft / 65,000 BTU), NFPA 211 3-2-10 chimney height (7.0' above 6/12 roof), and winter fuel usage (3.0 Full Cords of Seasoned Hardwood (<20% Moisture Content)) for HearthStone Heritage Soapstone Hybrid Wood Stove.",
+    "peak_btu": 65000,
+    "max_sqft": 2000,
+    "flue_in": 6,
+    "date": "2026-10-28"
+  },
+  {
+    "stove_name": "1,500 Sq Ft Cabin & Home Wood Stove Sizing",
+    "slug": "1500-sq-ft-cabin-home-wood-stove-sizing-btu-chimney-calculator",
+    "title": "1,500 Sq Ft Cabin & Home Wood Stove Sizing BTU Sizing, Chimney 3-2-10 Rule & Fuel Calculator (2026)",
+    "description": "Calculate exact heating coverage (1,500 sq ft / 60,000 BTU), NFPA 211 3-2-10 chimney height (7.0' above 6/12 roof), and winter fuel usage (2.3 Full Cords of Seasoned Hardwood (<20% Moisture Content)) for 1,500 Sq Ft Cabin & Home Wood Stove Sizing.",
+    "peak_btu": 60000,
+    "max_sqft": 1500,
+    "flue_in": 6,
+    "date": "2026-10-28"
   }
 ]
