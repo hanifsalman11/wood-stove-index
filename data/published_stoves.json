@@ -328,5 +328,35 @@
     "max_sqft": 2000,
     "flue_in": 6,
     "date": "2026-10-29"
+  },
+  {
+    "stove_name": "800 Square Feet",
+    "slug": "800-square-feet-btu-chimney-calculator",
+    "title": "800 Square Feet BTU Sizing, Chimney 3-2-10 Rule & Fuel Calculator (2026)",
+    "description": "Calculate exact heating coverage (2,000 sq ft / 75,000 BTU), NFPA 211 3-2-10 chimney height (7.0' above 6/12 roof), and winter fuel usage (3.0 Full Cords of Seasoned Hardwood (<20% Moisture Content)) for 800 Square Feet.",
+    "peak_btu": 75000,
+    "max_sqft": 2000,
+    "flue_in": 6,
+    "date": "2026-10-29"
+  },
+  {
+    "stove_name": "500 Square Feet",
+    "slug": "500-square-feet-btu-chimney-calculator",
+    "title": "500 Square Feet BTU Sizing, Chimney 3-2-10 Rule & Fuel Calculator (2026)",
+    "description": "Calculate exact heating coverage (2,000 sq ft / 75,000 BTU), NFPA 211 3-2-10 chimney height (7.0' above 6/12 roof), and winter fuel usage (3.0 Full Cords of Seasoned Hardwood (<20% Moisture Content)) for 500 Square Feet.",
+    "peak_btu": 75000,
+    "max_sqft": 2000,
+    "flue_in": 6,
+    "date": "2026-10-29"
+  },
+  {
+    "stove_name": "200 Sq Ft",
+    "slug": "200-sq-ft-btu-chimney-calculator",
+    "title": "200 Sq Ft BTU Sizing, Chimney 3-2-10 Rule & Fuel Calculator (2026)",
+    "description": "Calculate exact heating coverage (2,000 sq ft / 75,000 BTU), NFPA 211 3-2-10 chimney height (7.0' above 6/12 roof), and winter fuel usage (3.0 Full Cords of Seasoned Hardwood (<20% Moisture Content)) for 200 Sq Ft.",
+    "peak_btu": 75000,
+    "max_sqft": 2000,
+    "flue_in": 6,
+    "date": "2026-10-29"
   }
 ]
