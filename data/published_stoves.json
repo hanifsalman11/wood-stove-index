@@ -268,5 +268,35 @@
     "max_sqft": 1000,
     "flue_in": 6,
     "date": "2026-10-28"
+  },
+  {
+    "stove_name": "6-Inch Class-A Double-Wall Chimney 3-2-10 Rule Setup",
+    "slug": "6-inch-class-a-double-wall-chimney-3-2-10-rule-setup-btu-chimney-calculator",
+    "title": "6-Inch Class-A Double-Wall Chimney 3-2-10 Rule Setup BTU Sizing, Chimney 3-2-10 Rule & Fuel Calculator (2026)",
+    "description": "Calculate exact heating coverage (2,000 sq ft / 75,000 BTU), NFPA 211 3-2-10 chimney height (7.0' above 6/12 roof), and winter fuel usage (3.0 Full Cords of Seasoned Hardwood (<20% Moisture Content)) for 6-Inch Class-A Double-Wall Chimney 3-2-10 Rule Setup.",
+    "peak_btu": 75000,
+    "max_sqft": 2000,
+    "flue_in": 6,
+    "date": "2026-10-29"
+  },
+  {
+    "stove_name": "Drolet Escape 1800-I Fireplace Wood Insert",
+    "slug": "drolet-escape-1800-i-fireplace-wood-insert-btu-chimney-calculator",
+    "title": "Drolet Escape 1800-I Fireplace Wood Insert BTU Sizing, Chimney 3-2-10 Rule & Fuel Calculator (2026)",
+    "description": "Calculate exact heating coverage (2,100 sq ft / 75,000 BTU), NFPA 211 3-2-10 chimney height (7.0' above 6/12 roof), and winter fuel usage (3.2 Full Cords of Seasoned Hardwood (<20% Moisture Content)) for Drolet Escape 1800-I Fireplace Wood Insert.",
+    "peak_btu": 75000,
+    "max_sqft": 2100,
+    "flue_in": 6,
+    "date": "2026-10-29"
+  },
+  {
+    "stove_name": "DuraVent DuraTech 6-Inch Class-A Through-Roof Kit",
+    "slug": "duravent-duratech-6-inch-class-a-through-roof-kit-btu-chimney-calculator",
+    "title": "DuraVent DuraTech 6-Inch Class-A Through-Roof Kit BTU Sizing, Chimney 3-2-10 Rule & Fuel Calculator (2026)",
+    "description": "Calculate exact heating coverage (2,000 sq ft / 75,000 BTU), NFPA 211 3-2-10 chimney height (7.0' above 6/12 roof), and winter fuel usage (3.0 Full Cords of Seasoned Hardwood (<20% Moisture Content)) for DuraVent DuraTech 6-Inch Class-A Through-Roof Kit.",
+    "peak_btu": 75000,
+    "max_sqft": 2000,
+    "flue_in": 6,
+    "date": "2026-10-29"
   }
 ]
