@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>1200 Sq Ft BTU Sizing, Chimney 3-2-10 Rule & Fuel Calculator (2026)</title>
+  <meta name="description" content="Calculate exact heating coverage (2,000 sq ft / 75,000 BTU), NFPA 211 3-2-10 chimney height (7.0' above 6/12 roof), and winter fuel usage (3.0 Full Cords of Seasoned Hardwood (<20% Moisture Content)) for 1200 Sq Ft.">
+  <link rel="canonical" href="https://hanifsalman11.github.io/wood-stove-index/1200-sq-ft-btu-chimney-calculator.html">
+  <meta property="og:title" content="1200 Sq Ft BTU Sizing, Chimney 3-2-10 Rule & Fuel Calculator (2026)">
+  <meta property="og:description" content="Calculate exact heating coverage (2,000 sq ft / 75,000 BTU), NFPA 211 3-2-10 chimney height (7.0' above 6/12 roof), and winter fuel usage (3.0 Full Cords of Seasoned Hardwood (<20% Moisture Content)) for 1200 Sq Ft.">
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="https://hanifsalman11.github.io/wood-stove-index/1200-sq-ft-btu-chimney-calculator.html">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "SoftwareApplication", "name": "1200 Sq Ft BTU, Chimney 3-2-10 & Fuel Calculator", "applicationCategory": "UtilitiesApplication", "operatingSystem": "Web Browser", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"}}, {"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "How many square feet can the 1200 Sq Ft heat in winter?", "acceptedAnswer": {"@type": "Answer", "text": "With 75,000 BTU/hr peak output and 78% efficiency, it heats up to 2,000 sq. ft. in mild/moderate climate zones, or around 1,440 sq. ft. in severe northern sub-zero zones (requiring 40\u201345 BTU per sq. ft.)."}}, {"@type": "Question", "name": "How high above the roof does the chimney pipe need to be for the 1200 Sq Ft?", "acceptedAnswer": {"@type": "Answer", "text": "Per NFPA 211 (3-2-10 Rule), multiply 10 feet by your roof pitch and add 2 feet. On a 6/12 pitch roof ((10 \u00d7 0.5) + 2), the pipe must extend 7.0 feet above the penetration point, with a minimum 15-foot total vertical stack from stove flue collar to rain cap."}}, {"@type": "Question", "name": "How much wood or pellets will the 1200 Sq Ft use per winter?", "acceptedAnswer": {"@type": "Answer", "text": "Heating 2,000 sq. ft. through a 150-day winter consumes approximately 3.0 Full Cords of Seasoned Hardwood (<20% Moisture Content), saving $1,200 to $2,400 per season compared to propane, heating oil, or baseboard electric heat."}}]}]}</script>
+</head>
+<body class="bg-stone-950 text-stone-100 antialiased min-h-screen flex flex-col">
+  <header class="border-b border-stone-800 bg-stone-900/80 backdrop-blur sticky top-0 z-30">
+    <div class="max-w-5xl mx-auto px-4 py-3.5 flex items-center justify-between">
+      <a href="index.html" class="text-lg font-black tracking-tight text-white flex items-center gap-2">
+        <span class="bg-orange-500 text-stone-950 px-2 py-0.5 rounded font-black">HEARTH</span>StoveIndex
+      </a>
+      <a href="https://www.amazon.com/s?k=EPA%2BWood%2BStove%2BPellet%2BStove%2B6%2BInch%2BClass%2BA%2BChimney%2BPipe%2BKit&tag=salmanrevie04-20" target="_blank" rel="nofollow sponsored" class="text-xs sm:text-sm bg-orange-500 hover:bg-orange-400 text-stone-950 font-extrabold px-3.5 py-2 rounded-lg transition">
+        Shop Wood/Pellet Stoves & Chimney Kits on Amazon →
+      </a>
+    </div>
+  </header>
+
+  <main class="max-w-5xl mx-auto px-4 py-10 flex-1 w-full">
+    <div class="mb-8">
+      <div class="flex flex-wrap items-center gap-2.5 mb-3">
+        <span class="text-xs font-extrabold uppercase tracking-widest bg-orange-500 text-stone-950 px-3 py-1 rounded-full">75,000 BTU (78% Eff)</span>
+        <span class="text-xs font-semibold bg-emerald-500/10 text-emerald-400 border border-emerald-500/20 px-3 py-1 rounded-full">Up to 2,000 Sq Ft</span>
+        <span class="text-xs font-semibold bg-stone-800 text-stone-300 px-3 py-1 rounded-full">6" Flue Collar | Cord Wood</span>
+      </div>
+      <h1 class="text-3xl sm:text-4xl font-black text-white leading-tight">1200 Sq Ft BTU Sizing, Chimney 3-2-10 Rule & Fuel Calculator (2026)</h1>
+      <div class="mt-4 bg-stone-900 border-l-4 border-orange-500 p-4 rounded-r-xl text-sm text-stone-200 leading-relaxed">
+        <strong>NFI & NFPA 211 Engineering Verdict:</strong> Rated at 75,000 BTU/hr (78% EPA thermal efficiency) for spaces up to 2,000 sq. ft., the 1200 Sq Ft vents through a 6-inch flue collar and consumes approximately 3.0 Full Cords of Seasoned Hardwood (<20% Moisture Content) per winter. Under NFPA 211 (3-2-10 Chimney Rule), a vertical chimney penetrating a standard 6/12 pitch roof must extend at least 7.0 feet above the roof penetration (2 feet higher than any roof ridge within 10 feet horizontally) with a minimum 15-foot total vertical draft column.
+      </div>
+    </div>
+
+    <!-- INTERACTIVE BTU LOAD, NFPA 211 (3-2-10) CHIMNEY HEIGHT & FUEL CALCULATOR -->
+    <section class="bg-stone-900 border border-stone-800 rounded-2xl p-6 sm:p-8 mb-12 shadow-2xl">
+      <h2 class="text-xl font-extrabold text-white mb-2">Interactive 1200 Sq Ft BTU, 3-2-10 Chimney & Fuel Calculator</h2>
+      <p class="text-xs text-stone-400 mb-6">Adjust your home square footage, winter climate zone, roof pitch, and home elevation to compute required stove BTU, NFPA 211 exterior chimney height, and winter firewood/pellet consumption.</p>
+
+      <div class="grid md:grid-cols-2 gap-8 items-center">
+        <div class="space-y-5">
+          <div>
+            <div class="flex justify-between text-sm font-medium mb-1.5">
+              <label for="sqftSlider" class="text-stone-300">Heated Home or Cabin Area (Sq Ft)</label>
+              <span class="text-orange-400 font-bold"><span id="sqftVal">2,000</span> sq ft</span>
+            </div>
+            <input id="sqftSlider" type="range" min="500" max="3500" step="100" value="2000" class="w-full accent-orange-500 cursor-pointer">
+          </div>
+
+          <div class="grid grid-cols-2 gap-3">
+            <div>
+              <label for="zoneSelect" class="block text-xs font-medium text-stone-400 mb-1">Winter Climate & Insulation</label>
+              <select id="zoneSelect" class="w-full bg-stone-950 border border-stone-700 rounded-lg px-3 py-2 text-xs text-white focus:outline-none focus:border-orange-500">
+                <option value="25">Mild Winter / Well Insulated (25 BTU/ft²)</option>
+                <option value="35" selected>Moderate / Average Home (35 BTU/ft²)</option>
+                <option value="45">Frigid North / Log Cabin (45 BTU/ft²)</option>
+              </select>
+            </div>
+            <div>
+              <label for="pitchSelect" class="block text-xs font-medium text-stone-400 mb-1">Roof Pitch (NFPA 3-2-10 Rule)</label>
+              <select id="pitchSelect" class="w-full bg-stone-950 border border-stone-700 rounded-lg px-3 py-2 text-xs text-white focus:outline-none focus:border-orange-500">
+                <option value="2">2/12 Low Slope Roof</option>
+                <option value="4">4/12 Moderate Pitch</option>
+                <option value="6" selected>6/12 Standard Pitch</option>
+                <option value="8">8/12 Steep Pitch</option>
+                <option value="10">10/12 A-Frame / Chalet</option>
+              </select>
+            </div>
+          </div>
+
+          <div>
+            <div class="flex justify-between text-sm font-medium mb-1.5">
+              <label for="altSlider" class="text-stone-300">Property Elevation Above Sea Level (Feet — +3% Draft/1,000 ft)</label>
+              <span class="text-orange-400 font-bold"><span id="altVal">1,000</span> ft</span>
+            </div>
+            <input id="altSlider" type="range" min="0" max="8000" step="500" value="1000" class="w-full accent-orange-500 cursor-pointer">
+          </div>
+        </div>
+
+        <div class="grid grid-cols-2 gap-4">
+          <div class="bg-stone-950 border border-orange-500/30 rounded-xl p-4">
+            <span class="text-xs uppercase text-orange-400 font-bold">Required Stove BTU</span>
+            <div class="text-xl sm:text-2xl font-black text-white mt-1"><span id="btuOut">75,000</span> <span class="text-xs font-normal text-stone-400">BTU</span></div>
+            <p id="fuelSeasonOut" class="text-xs text-orange-400 font-semibold mt-1">~3.2 Cords / 3.8 Tons Pellets</p>
+          </div>
+
+          <div class="bg-stone-950 border border-emerald-500/30 rounded-xl p-4">
+            <span class="text-xs uppercase text-emerald-400 font-bold">3-2-10 Chimney Height</span>
+            <div id="roofPipeOut" class="text-xl sm:text-2xl font-black text-emerald-400 mt-1">7.0 ft Above Roof</div>
+            <p id="stackMinOut" class="text-xs text-stone-300 font-semibold mt-1">Min Total Stack: 15.5 ft</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="mt-6 bg-orange-950/40 border border-orange-500/30 rounded-xl p-4 flex flex-col sm:flex-row items-center justify-between gap-4">
+        <div id="stoveAdviceBanner" class="text-sm text-orange-100 font-medium"></div>
+        <a id="dynamicStoveBtn" href="https://www.amazon.com/s?k=EPA%2BWood%2BStove%2BPellet%2BStove%2B6%2BInch%2BClass%2BA%2BChimney%2BPipe%2BKit&tag=salmanrevie04-20" target="_blank" rel="nofollow sponsored" class="shrink-0 bg-orange-500 hover:bg-orange-400 text-stone-950 font-extrabold px-4 py-2.5 rounded-lg text-xs uppercase tracking-wider transition">
+          Shop Matched Stove & Chimney Kit on Amazon →
+        </a>
+      </div>
+    </section>
+
+    <!-- 4-CARD HARDWARE BUNDLE -->
+    <section class="mb-12">
+      <div class="flex items-center justify-between mb-4">
+        <h2 class="text-2xl font-extrabold text-white">Complete 1200 Sq Ft Chimney, Hearth Pad & Tool Bundle</h2>
+        <span class="text-xs text-stone-400">EPA 2020 & UL-103HT / NFPA 211 Compliant</span>
+      </div>
+      <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-4">
+        <div class="bg-stone-900 border border-stone-800 rounded-xl p-5 flex flex-col justify-between hover:border-orange-500/60 transition">
+          <div>
+            <div class="flex items-center justify-between gap-2 mb-2">
+              <span class="text-xs font-bold uppercase tracking-wider bg-orange-500/10 text-orange-400 border border-orange-500/20 px-2.5 py-0.5 rounded">75K BTU Heating Unit</span>
+              <span class="text-sm font-bold text-emerald-400">$799 - $2,499</span>
+            </div>
+            <h3 class="text-base font-bold text-white mt-2">1200 Sq Ft (2,000 Sq Ft EPA High-Efficiency Heater)</h3>
+            <p class="text-xs text-stone-400 mt-2 leading-relaxed">🔥 Delivers 75,000 BTU/hr at 78% efficiency with air-wash ceramic glass and variable-speed blower.</p>
+          </div>
+          <a href="https://www.amazon.com/s?k=1200+Sq+Ft+Stove&tag=salmanrevie04-20" target="_blank" rel="nofollow sponsored" class="mt-5 block text-center bg-orange-500 hover:bg-orange-400 text-stone-950 font-extrabold py-2.5 px-4 rounded-lg text-sm transition shadow-lg">
+            Check Price on Amazon →
+          </a>
+        </div>
+        <div class="bg-stone-900 border border-stone-800 rounded-xl p-5 flex flex-col justify-between hover:border-orange-500/60 transition">
+          <div>
+            <div class="flex items-center justify-between gap-2 mb-2">
+              <span class="text-xs font-bold uppercase tracking-wider bg-orange-500/10 text-orange-400 border border-orange-500/20 px-2.5 py-0.5 rounded">6" Chimney & Vent Kit</span>
+              <span class="text-sm font-bold text-emerald-400">$389 - $999</span>
+            </div>
+            <h3 class="text-base font-bold text-white mt-2">6-Inch Class-A Double/Triple-Wall Insulated Stainless Chimney Pipe & Roof Kit</h3>
+            <p class="text-xs text-stone-400 mt-2 leading-relaxed">🔥 UL-103HT / UL-641 rated high-temperature stainless steel maintains flue draft and zero-clearance roof safety.</p>
+          </div>
+          <a href="https://www.amazon.com/s?k=6+Inch+Class+A+Insulated+Stainless+Steel+Chimney+Pipe+Kit+DuraVent&tag=salmanrevie04-20" target="_blank" rel="nofollow sponsored" class="mt-5 block text-center bg-orange-500 hover:bg-orange-400 text-stone-950 font-extrabold py-2.5 px-4 rounded-lg text-sm transition shadow-lg">
+            Check Price on Amazon →
+          </a>
+        </div>
+        <div class="bg-stone-900 border border-stone-800 rounded-xl p-5 flex flex-col justify-between hover:border-orange-500/60 transition">
+          <div>
+            <div class="flex items-center justify-between gap-2 mb-2">
+              <span class="text-xs font-bold uppercase tracking-wider bg-orange-500/10 text-orange-400 border border-orange-500/20 px-2.5 py-0.5 rounded">UL-1618 Hearth & Flue</span>
+              <span class="text-sm font-bold text-emerald-400">$129 - $349</span>
+            </div>
+            <h3 class="text-base font-bold text-white mt-2">UL-1618 Type-2 Ember & Thermal Hearth Pad + Magnetic Flue Creosote Thermometer</h3>
+            <p class="text-xs text-stone-400 mt-2 leading-relaxed">🔥 Protects combustible flooring from radiant heat and monitors optimal 300°F–500°F anti-creosote flue zone.</p>
+          </div>
+          <a href="https://www.amazon.com/s?k=Wood+Stove+Hearth+Pad+Floor+Protection+Plate+Magnetic+Flue+Thermometer&tag=salmanrevie04-20" target="_blank" rel="nofollow sponsored" class="mt-5 block text-center bg-orange-500 hover:bg-orange-400 text-stone-950 font-extrabold py-2.5 px-4 rounded-lg text-sm transition shadow-lg">
+            Check Price on Amazon →
+          </a>
+        </div>
+        <div class="bg-stone-900 border border-stone-800 rounded-xl p-5 flex flex-col justify-between hover:border-orange-500/60 transition">
+          <div>
+            <div class="flex items-center justify-between gap-2 mb-2">
+              <span class="text-xs font-bold uppercase tracking-wider bg-orange-500/10 text-orange-400 border border-orange-500/20 px-2.5 py-0.5 rounded">Ash Vac, Moisture & Fan</span>
+              <span class="text-sm font-bold text-emerald-400">$69 - $159</span>
+            </div>
+            <h3 class="text-base font-bold text-white mt-2">Metal HEPA Warm-Ash Vacuum + Digital Firewood Moisture Meter & Heat-Powered Stove Fan</h3>
+            <p class="text-xs text-stone-400 mt-2 leading-relaxed">🔥 Verifies firewood is below 20% moisture before burning and circulates warm air without grid electricity.</p>
+          </div>
+          <a href="https://www.amazon.com/s?k=Metal+Pellet+Wood+Stove+Ash+Vacuum+Firewood+Moisture+Meter+Stove+Fan&tag=salmanrevie04-20" target="_blank" rel="nofollow sponsored" class="mt-5 block text-center bg-orange-500 hover:bg-orange-400 text-stone-950 font-extrabold py-2.5 px-4 rounded-lg text-sm transition shadow-lg">
+            Check Price on Amazon →
+          </a>
+        </div></div>
+    </section>
+
+    <!-- ROOF PITCH & CHIMNEY HEIGHT MATRIX TABLE -->
+    <section class="mb-12">
+      <h2 class="text-2xl font-extrabold text-white mb-4">NFPA 211 (3-2-10 Rule) Class-A Chimney Pipe Height by Roof Pitch</h2>
+      <div class="overflow-x-auto bg-stone-900 border border-stone-800 rounded-xl">
+        <table class="w-full text-left border-collapse text-sm">
+          <thead>
+            <tr class="border-b border-stone-800 bg-stone-950/60 text-stone-400 uppercase text-xs">
+              <th class="py-3.5 px-4">Roof Pitch Slope</th>
+              <th class="py-3.5 px-4 text-orange-400">Min Pipe Height Above Penetration</th>
+              <th class="py-3.5 px-4 text-emerald-400">Roof Guy-Brace Requirement</th>
+              <th class="py-3.5 px-4">Total Vertical Draft Stack</th>
+            </tr>
+          </thead>
+          <tbody>
+        <tr class="border-b border-stone-800 hover:bg-stone-800/40">
+          <td class="py-3 px-4 font-bold text-white">Flat / 2/12 Pitch Roof</td>
+          <td class="py-3 px-4 font-bold text-orange-400">3.7 Feet Above Roof</td>
+          <td class="py-3 px-4 text-emerald-400 font-semibold">No Roof Brace Needed</td>
+          <td class="py-3 px-4 text-xs text-stone-300">Min 15 ft Total Stack</td>
+        </tr>
+        <tr class="border-b border-stone-800 hover:bg-stone-800/40">
+          <td class="py-3 px-4 font-bold text-white">4/12 Pitch Roof</td>
+          <td class="py-3 px-4 font-bold text-orange-400">5.3 Feet Above Roof</td>
+          <td class="py-3 px-4 text-emerald-400 font-semibold">1x Roof Guy-Bracket Kit</td>
+          <td class="py-3 px-4 text-xs text-stone-300">Min 15 ft Total Stack</td>
+        </tr>
+        <tr class="border-b border-stone-800 hover:bg-stone-800/40">
+          <td class="py-3 px-4 font-bold text-white">6/12 Standard Pitch</td>
+          <td class="py-3 px-4 font-bold text-orange-400">7.0 Feet Above Roof</td>
+          <td class="py-3 px-4 text-emerald-400 font-semibold">1x Roof Guy-Bracket Kit</td>
+          <td class="py-3 px-4 text-xs text-stone-300">Min 15–16 ft Stack</td>
+        </tr>
+        <tr class="border-b border-stone-800 hover:bg-stone-800/40">
+          <td class="py-3 px-4 font-bold text-white">8/12 Steep Pitch Roof</td>
+          <td class="py-3 px-4 font-bold text-orange-400">8.7 Feet Above Roof</td>
+          <td class="py-3 px-4 text-emerald-400 font-semibold">1x Roof Guy-Bracket Kit</td>
+          <td class="py-3 px-4 text-xs text-stone-300">Min 16–18 ft Stack</td>
+        </tr>
+        <tr class="border-b border-stone-800 hover:bg-stone-800/40">
+          <td class="py-3 px-4 font-bold text-white">10/12 – 12/12 A-Frame</td>
+          <td class="py-3 px-4 font-bold text-orange-400">10.3 – 12.0 Ft (or Penetrate Near Ridge)</td>
+          <td class="py-3 px-4 text-emerald-400 font-semibold">2x Extended Roof Braces</td>
+          <td class="py-3 px-4 text-xs text-stone-300">Min 18+ ft Stack</td>
+        </tr></tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- NFPA 211 CHECKLIST -->
+    <section class="mb-12">
+      <div class="flex items-center justify-between mb-4">
+        <h2 class="text-2xl font-extrabold text-white">CSIA & NFPA 211 Chimney Draft & Hearth Safety Checklist</h2>
+        <span id="stoveBadge" class="text-xs font-bold bg-stone-800 text-orange-400 px-3 py-1 rounded-full">0 / 4 Completed</span>
+      </div>
+      <div class="space-y-3">
+        <label class="flex items-start gap-3.5 bg-stone-900 border border-stone-800 rounded-xl p-4 cursor-pointer hover:border-stone-700 transition">
+          <input type="checkbox" class="mt-1 w-5 h-5 accent-orange-500 rounded cursor-pointer stove-check">
+          <span class="text-sm text-stone-200 leading-relaxed"><strong>NFPA 211 Step 1:</strong> Enforce the NFPA 211 3-2-10 Chimney Rule: the top of your Class-A chimney cap must be at least 3 feet above the roof penetration AND 2 feet higher than any roof surface or ridge within a 10-foot horizontal radius.</span>
+        </label>
+        <label class="flex items-start gap-3.5 bg-stone-900 border border-stone-800 rounded-xl p-4 cursor-pointer hover:border-stone-700 transition">
+          <input type="checkbox" class="mt-1 w-5 h-5 accent-orange-500 rounded cursor-pointer stove-check">
+          <span class="text-sm text-stone-200 leading-relaxed"><strong>NFPA 211 Step 2:</strong> Never use single-wall black stove pipe to pass through a ceiling, attic, or exterior wall! Single-wall or double-wall black connector pipe is strictly for inside the room up to the ceiling support box, where it MUST transition to Class-A Insulated Chimney Pipe.</span>
+        </label>
+        <label class="flex items-start gap-3.5 bg-stone-900 border border-stone-800 rounded-xl p-4 cursor-pointer hover:border-stone-700 transition">
+          <input type="checkbox" class="mt-1 w-5 h-5 accent-orange-500 rounded cursor-pointer stove-check">
+          <span class="text-sm text-stone-200 leading-relaxed"><strong>NFPA 211 Step 3:</strong> Add a roof Guy-Wire Roof Brace Support Kit whenever your Class-A stainless chimney pipe extends 5 feet or more above the roofline to prevent winter wind & snow-slide shear.</span>
+        </label>
+        <label class="flex items-start gap-3.5 bg-stone-900 border border-stone-800 rounded-xl p-4 cursor-pointer hover:border-stone-700 transition">
+          <input type="checkbox" class="mt-1 w-5 h-5 accent-orange-500 rounded cursor-pointer stove-check">
+          <span class="text-sm text-stone-200 leading-relaxed"><strong>NFPA 211 Step 4:</strong> Burn only seasoned hardwood split and dried to 15%–20% internal moisture content (verified on a freshly split face with a pin moisture meter) to prevent flammable Stage-3 glazed creosote buildup.</span>
+        </label></div>
+    </section>
+
+    <!-- FAQ -->
+    <section class="mb-12">
+      <h2 class="text-2xl font-extrabold text-white mb-5">Frequently Asked Questions (1200 Sq Ft)</h2>
+      <div class="space-y-4"><div class='bg-stone-900 border border-stone-800 rounded-xl p-5'><h3 class='font-bold text-white text-base mb-2'>How many square feet can the 1200 Sq Ft heat in winter?</h3><p class='text-sm text-stone-300 leading-relaxed'>With 75,000 BTU/hr peak output and 78% efficiency, it heats up to 2,000 sq. ft. in mild/moderate climate zones, or around 1,440 sq. ft. in severe northern sub-zero zones (requiring 40–45 BTU per sq. ft.).</p></div><div class='bg-stone-900 border border-stone-800 rounded-xl p-5'><h3 class='font-bold text-white text-base mb-2'>How high above the roof does the chimney pipe need to be for the 1200 Sq Ft?</h3><p class='text-sm text-stone-300 leading-relaxed'>Per NFPA 211 (3-2-10 Rule), multiply 10 feet by your roof pitch and add 2 feet. On a 6/12 pitch roof ((10 × 0.5) + 2), the pipe must extend 7.0 feet above the penetration point, with a minimum 15-foot total vertical stack from stove flue collar to rain cap.</p></div><div class='bg-stone-900 border border-stone-800 rounded-xl p-5'><h3 class='font-bold text-white text-base mb-2'>How much wood or pellets will the 1200 Sq Ft use per winter?</h3><p class='text-sm text-stone-300 leading-relaxed'>Heating 2,000 sq. ft. through a 150-day winter consumes approximately 3.0 Full Cords of Seasoned Hardwood (<20% Moisture Content), saving $1,200 to $2,400 per season compared to propane, heating oil, or baseboard electric heat.</p></div></div>
+    </section>
+  </main>
+
+  <footer class="border-t border-stone-800 py-8 text-center text-xs text-stone-500 px-4">
+    <p>© 2026 HearthStoveIndex. Independent Wood/Pellet Stove BTU & NFPA 211 Chimney Engineering Database. As an Amazon Associate, we earn from qualifying purchases.</p>
+  </footer>
+
+  <script>
+    const flueDiaIn = 6;
+    const amzDomain = "www.amazon.com";
+    const amzTag = "salmanrevie04-20";
+
+    const sqftSlider = document.getElementById('sqftSlider');
+    const zoneSelect = document.getElementById('zoneSelect');
+    const pitchSelect = document.getElementById('pitchSelect');
+    const altSlider = document.getElementById('altSlider');
+    const sqftVal = document.getElementById('sqftVal');
+    const altVal = document.getElementById('altVal');
+    const btuOut = document.getElementById('btuOut');
+    const fuelSeasonOut = document.getElementById('fuelSeasonOut');
+    const roofPipeOut = document.getElementById('roofPipeOut');
+    const stackMinOut = document.getElementById('stackMinOut');
+    const stoveAdviceBanner = document.getElementById('stoveAdviceBanner');
+    const dynamicStoveBtn = document.getElementById('dynamicStoveBtn');
+
+    function recalculateStove() {
+      const sqft = parseInt(sqftSlider.value, 10);
+      const btuPerSqft = parseInt(zoneSelect.value, 10);
+      const pitchRise = parseInt(pitchSelect.value, 10);
+      const elevFt = parseInt(altSlider.value, 10);
+
+      sqftVal.textContent = sqft.toLocaleString();
+      altVal.textContent = elevFt.toLocaleString();
+
+      const reqBtu = Math.round((sqft * btuPerSqft) / 1000) * 1000;
+      const roofPipeFt = Math.max(3.0, ((10.0 * (pitchRise / 12.0)) + 2.0));
+      const minTotalStackFt = 15.0 * (1.0 + ((elevFt / 1000.0) * 0.03));
+
+      const seasonBtu = reqBtu * 10.0 * 150.0 * 0.45;
+      const cordsWood = (seasonBtu / (24000000.0 * 0.78)).toFixed(1);
+      const tonsPellets = (seasonBtu / (16500000.0 * 0.85)).toFixed(1);
+
+      btuOut.textContent = reqBtu.toLocaleString();
+      fuelSeasonOut.textContent = `~${cordsWood} Cords Wood / ${tonsPellets} Tons Pellets`;
+      roofPipeOut.textContent = `${roofPipeFt.toFixed(1)} ft Above Roof`;
+      stackMinOut.textContent = `Min Total Stack: ${minTotalStackFt.toFixed(1)} ft`;
+
+      const braceNote = roofPipeFt >= 5.0 ? " + Extended Roof Guy-Brace Kit" : "";
+      stoveAdviceBanner.innerHTML = `🔥 <strong>NFPA 211 Spec:</strong> Heating ${sqft.toLocaleString()} sq ft requires a <strong>${reqBtu.toLocaleString()} BTU EPA Stove</strong> and <strong>${roofPipeFt.toFixed(1)} ft of ${flueDiaIn}" Class-A Chimney Pipe above your ${pitchRise}/12 roof${braceNote}</strong>.`;
+      dynamicStoveBtn.href = `https://${amzDomain}/s?k=${reqBtu}+BTU+EPA+Wood+Pellet+Stove+${flueDiaIn}+Inch+Class+A+Chimney+Pipe+Kit&tag=${amzTag}`;
+    }
+
+    sqftSlider.addEventListener('input', recalculateStove);
+    zoneSelect.addEventListener('change', recalculateStove);
+    pitchSelect.addEventListener('change', recalculateStove);
+    altSlider.addEventListener('input', recalculateStove);
+    recalculateStove();
+
+    const checks = document.querySelectorAll('.stove-check');
+    const badge = document.getElementById('stoveBadge');
+    checks.forEach(ch => {
+      ch.addEventListener('change', () => {
+        const done = Array.from(checks).filter(c => c.checked).length;
+        badge.textContent = `${done} / ${checks.length} Completed`;
+      });
+    });
+  </script>
+</body>
+</html>
