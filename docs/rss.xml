@@ -7,6 +7,24 @@
     <atom:link href="https://hanifsalman11.github.io/wood-stove-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>Sauna BTU Sizing, Chimney 3-2-10 Rule & Fuel Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/wood-stove-index/sauna-btu-chimney-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/wood-stove-index/sauna-btu-chimney-calculator.html</guid>
+      <description>Calculate exact heating coverage (2,000 sq ft / 75,000 BTU), NFPA 211 3-2-10 chimney height (7.0' above 6/12 roof), and winter fuel usage (3.0 Full Cords of Seasoned Hardwood (<20% Moisture Content)) for Sauna.</description>
+    </item>
+    <item>
+      <title>400 Square Feet BTU Sizing, Chimney 3-2-10 Rule & Fuel Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/wood-stove-index/400-square-feet-btu-chimney-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/wood-stove-index/400-square-feet-btu-chimney-calculator.html</guid>
+      <description>Calculate exact heating coverage (2,000 sq ft / 75,000 BTU), NFPA 211 3-2-10 chimney height (7.0' above 6/12 roof), and winter fuel usage (3.0 Full Cords of Seasoned Hardwood (<20% Moisture Content)) for 400 Square Feet.</description>
+    </item>
+    <item>
+      <title>1500 Sq Ft BTU Sizing, Chimney 3-2-10 Rule & Fuel Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/wood-stove-index/1500-sq-ft-btu-chimney-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/wood-stove-index/1500-sq-ft-btu-chimney-calculator.html</guid>
+      <description>Calculate exact heating coverage (2,000 sq ft / 75,000 BTU), NFPA 211 3-2-10 chimney height (7.0' above 6/12 roof), and winter fuel usage (3.0 Full Cords of Seasoned Hardwood (<20% Moisture Content)) for 1500 Sq Ft.</description>
+    </item>
+    <item>
       <title>200 Sq Ft BTU Sizing, Chimney 3-2-10 Rule & Fuel Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/wood-stove-index/200-sq-ft-btu-chimney-calculator.html</link>
       <guid>https://hanifsalman11.github.io/wood-stove-index/200-sq-ft-btu-chimney-calculator.html</guid>
@@ -167,24 +185,6 @@
       <link>https://hanifsalman11.github.io/wood-stove-index/ashley-hearth-aw2520e-p-2500-sq-ft-wood-stove-btu-chimney-calculator.html</link>
       <guid>https://hanifsalman11.github.io/wood-stove-index/ashley-hearth-aw2520e-p-2500-sq-ft-wood-stove-btu-chimney-calculator.html</guid>
       <description>Calculate exact heating coverage (2,500 sq ft / 88,000 BTU), NFPA 211 3-2-10 chimney height (7.0' above 6/12 roof), and winter fuel usage (3.9 Full Cords of Seasoned Hardwood (<20% Moisture Content)) for Ashley Hearth AW2520E-P 2,500 Sq Ft Wood Stove.</description>
-    </item>
-    <item>
-      <title>US Stove Magnolia 2015 EPA Pedestal Wood Stove BTU Sizing, Chimney 3-2-10 Rule & Fuel Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/wood-stove-index/us-stove-magnolia-2015-epa-pedestal-wood-stove-btu-chimney-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/wood-stove-index/us-stove-magnolia-2015-epa-pedestal-wood-stove-btu-chimney-calculator.html</guid>
-      <description>Calculate exact heating coverage (1,800 sq ft / 68,000 BTU), NFPA 211 3-2-10 chimney height (7.0' above 6/12 roof), and winter fuel usage (2.8 Full Cords of Seasoned Hardwood (<20% Moisture Content)) for US Stove Magnolia 2015 EPA Pedestal Wood Stove.</description>
-    </item>
-    <item>
-      <title>US Stove Forester 5824 / VG5790 Pellet Stove BTU Sizing, Chimney 3-2-10 Rule & Fuel Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/wood-stove-index/us-stove-forester-5824-vg5790-pellet-stove-btu-chimney-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/wood-stove-index/us-stove-forester-5824-vg5790-pellet-stove-btu-chimney-calculator.html</guid>
-      <description>Calculate exact heating coverage (2,200 sq ft / 48,000 BTU), NFPA 211 3-2-10 chimney height (7.0' above 6/12 roof), and winter fuel usage (4.7 Tons (235 × 40-lb bags) of Premium Hardwood Pellets) for US Stove Forester 5824 / VG5790 Pellet Stove.</description>
-    </item>
-    <item>
-      <title>ComfortBilt HP61 Large Hopper Pellet Stove BTU Sizing, Chimney 3-2-10 Rule & Fuel Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/wood-stove-index/comfortbilt-hp61-large-hopper-pellet-stove-btu-chimney-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/wood-stove-index/comfortbilt-hp61-large-hopper-pellet-stove-btu-chimney-calculator.html</guid>
-      <description>Calculate exact heating coverage (3,000 sq ft / 54,000 BTU), NFPA 211 3-2-10 chimney height (7.0' above 6/12 roof), and winter fuel usage (6.1 Tons (305 × 40-lb bags) of Premium Hardwood Pellets) for ComfortBilt HP61 Large Hopper Pellet Stove.</description>
     </item>
   </channel>
 </rss>
