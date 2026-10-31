@@ -448,5 +448,35 @@
     "max_sqft": 2000,
     "flue_in": 6,
     "date": "2026-10-30"
+  },
+  {
+    "stove_name": "Drolet Wood Stove Models",
+    "slug": "drolet-wood-stove-models-btu-chimney-calculator",
+    "title": "Drolet Wood Stove Models BTU Sizing, Chimney 3-2-10 Rule & Fuel Calculator (2026)",
+    "description": "Calculate exact heating coverage (2,000 sq ft / 75,000 BTU), NFPA 211 3-2-10 chimney height (7.0' above 6/12 roof), and winter fuel usage (3.0 Full Cords of Seasoned Hardwood (<20% Moisture Content)) for Drolet Wood Stove Models.",
+    "peak_btu": 75000,
+    "max_sqft": 2000,
+    "flue_in": 6,
+    "date": "2026-10-31"
+  },
+  {
+    "stove_name": "Drolet Wood Stove Insert Reviews",
+    "slug": "drolet-wood-stove-insert-reviews-btu-chimney-calculator",
+    "title": "Drolet Wood Stove Insert Reviews BTU Sizing, Chimney 3-2-10 Rule & Fuel Calculator (2026)",
+    "description": "Calculate exact heating coverage (2,000 sq ft / 75,000 BTU), NFPA 211 3-2-10 chimney height (7.0' above 6/12 roof), and winter fuel usage (3.0 Full Cords of Seasoned Hardwood (<20% Moisture Content)) for Drolet Wood Stove Insert Reviews.",
+    "peak_btu": 75000,
+    "max_sqft": 2000,
+    "flue_in": 6,
+    "date": "2026-10-31"
+  },
+  {
+    "stove_name": "Drolet Wood Stove Near Me",
+    "slug": "drolet-wood-stove-near-me-btu-chimney-calculator",
+    "title": "Drolet Wood Stove Near Me BTU Sizing, Chimney 3-2-10 Rule & Fuel Calculator (2026)",
+    "description": "Calculate exact heating coverage (2,000 sq ft / 75,000 BTU), NFPA 211 3-2-10 chimney height (7.0' above 6/12 roof), and winter fuel usage (3.0 Full Cords of Seasoned Hardwood (<20% Moisture Content)) for Drolet Wood Stove Near Me.",
+    "peak_btu": 75000,
+    "max_sqft": 2000,
+    "flue_in": 6,
+    "date": "2026-10-31"
   }
 ]
